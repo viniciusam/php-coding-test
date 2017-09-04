@@ -1,0 +1,39 @@
+[
+    
+    {
+        "type": "AIRPLANE",
+        "code": "SK22",
+        "gate": "22",
+        "from": "Estocolm",
+        "to": "New York",
+        "seat": "7B",
+        "baggage": "AUTO"
+    },
+    {
+        "type": "BUS",
+        "code": "BarXGer",
+        "gate": null,
+        "from": "Barcelona",
+        "to": "Gerona",
+        "seat": null,
+        "baggage": null
+    },
+    {
+        "type": "AIRPLANE",
+        "code": "SK455",
+        "gate": "45B",
+        "from": "Gerona",
+        "to": "Estocolm",
+        "seat": "3A",
+        "baggage": "344"
+    },
+    {
+        "type": "TRAIN",
+        "code": "78A",
+        "gate": null,
+        "from": "Madrid",
+        "to": "Barcelona",
+        "seat": null,
+        "baggage": null 
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Listen for XDebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9000
+        },
+        {
+            "name": "Launch Current Script",
+            "type": "php",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${fileDirname}",
+            "port": 9000
+        },
+        {
+            "name": "Launch Task3",
+            "type": "php",
+            "request": "launch",
+            "program": "${workspaceRoot}/task3/app.php",
+            "cwd": "${workspaceRoot}/task3",
+            "port": 9000
+        }
+    ]
+}
